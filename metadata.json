@@ -1,0 +1,5 @@
+{
+  "name": "Procedural Animation Engine",
+  "description": "A 2D procedural animation engine using HTML5 Canvas, GSAP, and JSON-based scene definitions.",
+  "requestFramePermissions": []
+}
